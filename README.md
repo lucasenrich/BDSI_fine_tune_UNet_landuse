@@ -3,6 +3,8 @@
 
 This project consist in 4 repositories:
 
+![image](./img/flow.jpg)
+
 ## The fine-tuning of the model UNet:
 
 https://github.com/lucasenrich/BDSI_fine_tune_UNet_landuse
