@@ -1,9 +1,10 @@
 # Builded Detection with Satellite Imagery (BDSI)
 
-
-This project consist in 4 repositories:
+Flowchart Project
 
 ![image](./img/flow.jpg)
+
+This project consist in 4 repositories:
 
 ## The fine-tuning of the model UNet:
 
