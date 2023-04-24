@@ -1,6 +1,6 @@
 # Builded Detection with Satellite Imagery (BDSI)
 
-Flowchart Project
+Project Flowchart
 
 ![image](./img/flow.jpg)
 
