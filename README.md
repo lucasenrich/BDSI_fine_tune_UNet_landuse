@@ -61,5 +61,6 @@ Future work is about:
 
 + Database management (PostGIS)
 + Dockerize
-
++ Improve code
++ Improve documentation
 
